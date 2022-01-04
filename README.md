@@ -53,7 +53,7 @@ thank you and I hope you will join me soon on these different platforms🙋
  
 </details>
 
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+💌 Sign up for my [youtube channel](https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w/featured)
 
 ---
 
