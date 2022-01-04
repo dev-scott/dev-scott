@@ -45,7 +45,6 @@ i also have a server where we answer all your questions and concerns, so come jo
 
 thank you and I hope you will join me soon on these different platforms🙋
 
-[Latest Post 👉](https://waylonwalker.com/latest)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
