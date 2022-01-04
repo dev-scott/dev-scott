@@ -36,7 +36,7 @@ I code websites and projects for the internet. besides being a junior web develo
 
 
 <p>
-  <a href="https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w"><img width="300" align='right' src="https://images.app.goo.gl/Rrd1VMUwVK4gyrus8"></a>
+  <a href="https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w"><img width="300" align='right' src="https://github.com/dev-scott/dev-scott/blob/9bbd789dc16507e7fc671e161dbafd29127c457d/youtube.jfif"></a>
 </p>
 
 ### come and chat with me on discord and youtube🌱
