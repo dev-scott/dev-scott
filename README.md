@@ -34,8 +34,9 @@ I code websites and projects for the internet. besides being a junior web develo
 
  ---
 
+
 <p>
-  <a href=""><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w"><img width="300" align='right' src="https://images.app.goo.gl/Rrd1VMUwVK4gyrus8"></a>
 </p>
 
 ### come and chat with me on discord and youtube🌱
@@ -46,18 +47,11 @@ i also have a server where we answer all your questions and concerns, so come jo
 thank you and I hope you will join me soon on these different platforms🙋
 
 
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
- 
-</details>
+
 
 💌 Sign up for my [youtube channel](https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w/featured)
 
 ---
-
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
 <!--
@@ -126,7 +120,5 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	</a>
 </div>
 
-## Stargazers
 
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 
