@@ -25,21 +25,25 @@ I also have a <a href="https://codepen.io/dev-scott-the-reactor"> codepen </a> a
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### My linkedin account
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+🔥I am on <a href="https://www.linkedin.com/in/sado-scott-950579229/"> linkedin </a> if you want to contact me for a front end web development project🤓
+I code websites and projects for the internet. besides being a junior web developer👨‍💻, i'm also a ux designer and make site makets using adobe xd and figma!🎇
+
+## Thank you and see you soon🙋
 
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href=""><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 
-### My Digital Garden 🌱
+### come and chat with me on discord and youtube🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+🔥you want to learn new things about front end development and design, so come subscribe to my <a href="https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w/about"> youtube  </a>  channel and progress together🤩.
+i also have a server where we answer all your questions and concerns, so come join my server <a href="https://discord.gg/Hh7ubzCR">  discord </a>
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+thank you and I hope you will join me soon on these different platforms🙋
 
 [Latest Post 👉](https://waylonwalker.com/latest)
 
