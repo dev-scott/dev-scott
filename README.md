@@ -1,5 +1,3 @@
-# ![waylon walker header](https://github.com/dev-scott/dev-scott/blob/main/Bleu%20Or%20Rustique%20Artisinal%20Distanciel%20Dipl%C3%B4me%20Banni%C3%A8re%20(6).png
-)
 
 
 <p align='center' style="border-radius:50% , background-color: blue " >
