@@ -43,7 +43,7 @@ thank you and I hope you will join me soon on these different platforms🙋
 
 
 
-💌 Sign up for my [youtube channel](https://www.youtube.com/channel/UCX13-QgrpQztMgP5XxiYM2w/featured)
+💌 Sign up for my [youtube channel](https://www.youtube.com/channel/UCRs7vHrhX9cXzSiG_G4CodQ)
 
 ---
 
